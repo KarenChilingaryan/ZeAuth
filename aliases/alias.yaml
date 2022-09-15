@@ -1,0 +1,7 @@
+---
+name: greet
+pack: ZeAuth
+description: "Greet StackStorm"
+action_ref: "ZeAuth.greet"
+formats:
+  - "greet {{greeting}}"
